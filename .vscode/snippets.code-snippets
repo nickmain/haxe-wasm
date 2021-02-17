@@ -1,0 +1,13 @@
+{
+	"Print to console": {
+		"scope": "",
+		"prefix": "copyright",
+		"body": [
+			"// Copyright © ${1:2021}, David N Main. All rights reserved.",
+			"// Licensed under the MIT License, see LICENSE file for details.",
+			"",
+			"$2"
+		],
+		"description": "Copyright file comment"
+	}
+}
